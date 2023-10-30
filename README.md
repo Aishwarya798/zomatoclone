@@ -12,8 +12,7 @@ This is a Zomato clone application built with React and Redux. It allows users t
   
 ## Demo
 
-Link:- https://zomato-food-app.netlify.app/
-
+Link:- https://hereiszomatoclone.netlify.app
 ## Installation
 
 1. Clone the repository:
